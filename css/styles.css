@@ -1,4 +1,19 @@
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
 body{
     color: white;
     background-color: black;
+}
+h1{
+    text-align: center;
+}
+.contenedor{
+    max-width: 768px;
+    margin: auto;
+    padding: 1.6rem;
+}
+#galeria{
+    
 }
